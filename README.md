@@ -13,7 +13,7 @@ The model is served through a Gradio interface and packaged with Docker.
 
 ## 🚀 Run with Docker
 
-docker pull nithingowdaba/toxic-comment-classifier:latest
+docker pull nishchithabk/toxic-comment-classifier:latest
 docker run -p 7860:7860 nithingowdaba/toxic-comment-classifier:latest
 
 
@@ -43,5 +43,5 @@ README.md
 For learning purposes only — not production moderation.
 
 ## 👨‍💻 Author
-Nithin Gowda BA (CSE-AIML)
+Nishchitha B K (CSE-AIML)
 
