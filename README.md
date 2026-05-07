@@ -14,7 +14,7 @@ The model is served through a Gradio interface and packaged with Docker.
 ## 🚀 Run with Docker
 
 docker pull nishchithabk/toxic-comment-classifier:latest
-docker run -p 7860:7860 nithingowdaba/toxic-comment-classifier:latest
+docker run -p 7860:7860 nishchithabk/toxic-comment-classifier:latest
 
 
 Visit: http://localhost:7860
